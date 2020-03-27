@@ -6,4 +6,4 @@ class Artist
     @name = name
   end
 end
-beyonce
+name = Artist.new
